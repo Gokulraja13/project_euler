@@ -1,2 +1,2 @@
 # project_euler
-solutions for project euler 
+solutions for project euler quesions.
